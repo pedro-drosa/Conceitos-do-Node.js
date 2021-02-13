@@ -18,4 +18,4 @@ Give ⭐️ if you liked this project!
 
 Feito com 🖤 by [@pedro-drosa](https://github.com/pedro-drosa)
 
-This project is **MIT** licensed. See the [LICENSE](https://github.com/pedro-drosa/gradient--login-page/blob/master/LICENSE) file for more details.
+This project is **MIT** licensed.
